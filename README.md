@@ -9,7 +9,7 @@ To get started, clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/sameeprana/Dummy-product-page
+git clone https://github.com/monsoon11/Dummy-product-page
 Then, install the dependencies:
 
 bash
