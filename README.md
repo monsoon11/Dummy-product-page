@@ -1,4 +1,4 @@
-Dummy Product Page using Tailwind CSS and React
+Dummy Product Page using Tailwind CSS and React.
 This is a simple website built with Tailwind CSS and React that displays an iPhone in 3D model. This project is a fun way to explore Tailwind CSS and its capabilities.
 
 
